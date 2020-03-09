@@ -1,2 +1,3 @@
 # rsschool-cv
-https://leondtym.github.io/LeonDTym-rsschool-cv/
+https://leondtym.github.io/rsschool-cv/cv
+
